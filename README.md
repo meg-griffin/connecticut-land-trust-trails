@@ -2,7 +2,7 @@
 
 An ongoing list of land trust trails for public use in Connecticut.
 
-Please note: the material contained in this site is provided for informational purposes only. Please always check with the Land Trust or Organization for current trail closures, warnings and other advisories. Enjoy!
+###### Please note: the material contained in this site is provided for informational purposes only. Please always check with the Land Trust or Organization for current trail closures, warnings and other advisories. Enjoy!
 
 ### Fairfield County
 #### Bethel
