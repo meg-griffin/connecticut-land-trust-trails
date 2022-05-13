@@ -23,27 +23,46 @@
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://darienlandtrust.org/" target="_blank">Darien Land Trust</a>
 
 ### Easton
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.aspetucklandtrust.org/" target="_blank">Aspetuck Land Trust</a>
+
 ### Fairfield
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.aspetucklandtrust.org/" target="_blank">Aspetuck Land Trust</a>
+
 ### Greenwich
+
 ### Monroe
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.aspetucklandtrust.org/" target="_blank">Aspetuck Land Trust</a>
+
 ### New Canaan
+
 ### New Fairfield
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://candlewoodvalleyrlt.org/" target="_blank">Candlewood Valley Regional Land Trust</a>
+
 ### Newtown
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://newtownforestassociation.org/" target="_blank">Newtown Forest Association</a>
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ctland.org/" target="_blank">Northwest Connecticut Land Conservancy</a>
+
 ### Norwalk
+
 ### Redding
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://reddingctlandtrust.org/" target="_blank">Redding Land Trust</a>
+
 ### Ridgefield
 ### Shelton
+
 ### Sherman
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ctland.org/" target="_blank">Northwest Connecticut Land Conservancy</a>
+
 ### Stamford
 ### Stratford
 ### Trumbull
+
 ### Weston
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.aspetucklandtrust.org/" target="_blank">Aspetuck Land Trust</a>
+
 ### Westport
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.aspetucklandtrust.org/" target="_blank">Aspetuck Land Trust</a>
+
 ### Wilton
 
 ---
