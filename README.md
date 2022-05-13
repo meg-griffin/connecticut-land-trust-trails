@@ -8,6 +8,8 @@
 
 ## Fairfield County
 ### Bethel
+#### [The Bethel Land Trust](https://bethellandtrust.org/)
+#### <a href="https://bethellandtrust.org/" target="_blank">The Bethel Land Trust</a>
 ### Bridgeport
 ### Brookfield
 ### Danbury
