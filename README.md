@@ -11,6 +11,7 @@
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://bethellandtrust.org/" target="_blank">The Bethel Land Trust</a>
 ### Bridgeport
 ### Brookfield
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ctland.org/" target="_blank">Northwest Connecticut Land Conservancy</a>
 ### Danbury
 ### Darien
 ### Easton
@@ -21,12 +22,14 @@
 ### New Fairfield
 ### Newtown
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://newtownforestassociation.org/" target="_blank">Newtown Forest Association</a>
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ctland.org/" target="_blank">Northwest Connecticut Land Conservancy</a>
 ### Norwalk
 ### Redding
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://reddingctlandtrust.org/" target="_blank">Redding Land Trust</a>
 ### Ridgefield
 ### Shelton
 ### Sherman
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ctland.org/" target="_blank">Northwest Connecticut Land Conservancy</a>
 ### Stamford
 ### Stratford
 ### Trumbull
@@ -79,16 +82,20 @@
 ### Goshen
 ### Harwinton
 ### Kent
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ctland.org/" target="_blank">Northwest Connecticut Land Conservancy</a>
 ### Litchfield
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ctland.org/" target="_blank">Northwest Connecticut Land Conservancy</a>
 ### Morris
 ### New Hartford
 ### New Milford
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ctland.org/" target="_blank">Northwest Connecticut Land Conservancy</a>
 ### Norfolk
 ## North Canaan
 ### Plymouth
 ### Roxbury
 ### Salisbury
 ### Sharon
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ctland.org/" target="_blank">Northwest Connecticut Land Conservancy</a>
 ### Thomaston
 ### Torrington
 ### Warren
