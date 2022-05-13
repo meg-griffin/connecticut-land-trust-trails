@@ -1,8 +1,3 @@
-<p align="center">
-    ![logo](https://via.placeholder.com/72 "logo")
-    <img src="https://via.placeholder.com/72" alt="Logo" width=72 height=72>
-</p>
-
 # Connecticut Land Trust Trails
 
 An ongoing list of land trust trails for public use in Connecticut.
