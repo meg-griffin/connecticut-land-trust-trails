@@ -7,19 +7,28 @@
 ---
 
 ## Fairfield County
+
 ### Bethel
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://bethellandtrust.org/" target="_blank">The Bethel Land Trust</a>
+
 ### Bridgeport
+
 ### Brookfield
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ctland.org/" target="_blank">Northwest Connecticut Land Conservancy</a>
+
 ### Danbury
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://candlewoodvalleyrlt.org/" target="_blank">Candlewood Valley Regional Land Trust</a>
+
 ### Darien
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://darienlandtrust.org/" target="_blank">Darien Land Trust</a>
+
 ### Easton
 ### Fairfield
 ### Greenwich
 ### Monroe
 ### New Canaan
 ### New Fairfield
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://candlewoodvalleyrlt.org/" target="_blank">Candlewood Valley Regional Land Trust</a>
 ### Newtown
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://newtownforestassociation.org/" target="_blank">Newtown Forest Association</a>
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ctland.org/" target="_blank">Northwest Connecticut Land Conservancy</a>
