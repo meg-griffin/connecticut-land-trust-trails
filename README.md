@@ -8,7 +8,6 @@
 
 ## Fairfield County
 ### Bethel
-#### [The Bethel Land Trust](https://bethellandtrust.org/)
 #### <a href="https://bethellandtrust.org/" target="_blank">The Bethel Land Trust</a>
 ### Bridgeport
 ### Brookfield
@@ -21,8 +20,10 @@
 ### New Canaan
 ### New Fairfield
 ### Newtown
+#### <a href="https://newtownforestassociation.org/" target="_blank">Newtown Forest Association</a>
 ### Norwalk
 ### Redding
+#### <a href="https://reddingctlandtrust.org/" target="_blank">Redding Land Trust</a>
 ### Ridgefield
 ### Shelton
 ### Sherman
