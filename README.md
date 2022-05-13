@@ -29,11 +29,13 @@
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.aspetucklandtrust.org/" target="_blank">Aspetuck Land Trust</a>
 
 ### Greenwich
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gltrust.org/" target="_blank">Greenwich Land Trust</a>
 
 ### Monroe
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.aspetucklandtrust.org/" target="_blank">Aspetuck Land Trust</a>
 
 ### New Canaan
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://newcanaanlandtrust.org/" target="_blank">New Canaan Land Trust</a>
 
 ### New Fairfield
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://candlewoodvalleyrlt.org/" target="_blank">Candlewood Valley Regional Land Trust</a>
@@ -43,18 +45,26 @@
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ctland.org/" target="_blank">Northwest Connecticut Land Conservancy</a>
 
 ### Norwalk
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://norwalklandtrust.org/" target="_blank">Norwalk Land Trust</a>
 
 ### Redding
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://highstead.net/" target="_blank">Highstead</a>
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://reddingctlandtrust.org/" target="_blank">Redding Land Trust</a>
 
 ### Ridgefield
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://landconservancyofridgefield.org/" target="_blank">Land Conservancy of Ridgefield</a>
+
 ### Shelton
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.sheltonlandtrust.org/" target="_blank">Shelton Land Conservation Trust</a>
 
 ### Sherman
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ctland.org/" target="_blank">Northwest Connecticut Land Conservancy</a>
 
 ### Stamford
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.stamfordland.org/" target="_blank">Stamford Land Conservation Trust</a>
+
 ### Stratford
+
 ### Trumbull
 
 ### Weston
@@ -64,6 +74,7 @@
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.aspetucklandtrust.org/" target="_blank">Aspetuck Land Trust</a>
 
 ### Wilton
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.wiltonlandtrust.org/" target="_blank">Wilton Land Conservation Trust</a>
 
 ---
 
