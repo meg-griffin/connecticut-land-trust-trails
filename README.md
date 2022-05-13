@@ -9,7 +9,7 @@
 ## Fairfield County
 
 ### Bethel
-#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://bethellandtrust.org/" target="_blank">The Bethel Land Trust</a>
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://bethellandtrust.org/" target="_blank">Bethel Land Trust</a>
 
 ### Bridgeport
 
@@ -79,34 +79,89 @@
 ---
 
 ## Hartford County
+
 ### Avon
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://avonlandtrust.org/" target="_blank">Avon Land Trust</a>
+
 ### Berlin
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.berlinlandtrust.org/" target="_blank">Berlin Land Trust</a>
+
 ### Bloomfield
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wintonburylandtrust.org/" target="_blank">Wintonbury Land Trust</a>
+
 ### Bristol
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://elcct.org/" target="_blank">Environmental Learning Centers of Connecticut</a>
+
 ### Burlington
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.burlingtonlandtrust.org/" target="_blank">Burlington Land Trust</a>
+
 ### Canton
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.cantonlandtrust.org/" target="_blank">Canton Land Conservation Trust</a>
+
 ### East Granby
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.eglt.org/index.php" target="_blank">East Granby Land Trust</a>
+
 ### East Hartford
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.manchesterlandtrust.org/" target="_blank">Manchester Land Conservation Trust</a>
+
 ### East Windsor
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://northernctlandtrust.org/" target="_blank">Northern Connecticut Land Trust</a>
+
 ### Enfield
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://northernctlandtrust.org/" target="_blank">Northern Connecticut Land Trust</a>
+
 ### Farmington
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.farmingtonlandtrust.org/" target="_blank">Farmington Land Trust</a>
+
 ### Glastonbury
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.gmct.org/" target="_blank">Great Meadows Conservation Trust</a>
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.kongscutlandtrust.org/" target="_blank">Kongscut Land Trust</a>
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.lhcglastonbury.org/" target="_blank">Land Heritage Coalition of Glastonbury</a>
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.manchesterlandtrust.org/" target="_blank">Manchester Land Conservation Trust</a>
+
 ### Granby
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://granbylandtrust.org/glt/" target="_blank">Granby Land Trust</a>
+
 ### Hartford
+
 ### Hartland
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.hartlandlandtrust.org/" target="_blank">Hartland Land Trust</a>
+
 ### Manchester
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.manchesterlandtrust.org/" target="_blank">Manchester Land Conservation Trust</a>
+
 ### Marlborough
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.kongscutlandtrust.org/" target="_blank">Kongscut Land Trust</a>
+
 ### New Britain
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.berlinlandtrust.org/" target="_blank">Berlin Land Trust</a>
+
 ### Newington
+
 ### Plainville
+
 ### Rocky Hill
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.gmct.org/" target="_blank">Great Meadows Conservation Trust</a>
+
 ### Simsbury
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://simsburylandtrust.org/slt/" target="_blank">Simsbury Land Trust</a>
+
 ### South Windsor
+
 ### Southington
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.southingtonlandtrust.org/" target="_blank">Southington Land Trust</a>
+
 ### Suffield
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.suffieldlandconservancy.org/" target="_blank">Suffield Land Conservancy</a>
+
 ### West Hartford
+
 ### Wethersfield
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.gmct.org/" target="_blank">Great Meadows Conservation Trust</a>
+
 ### Windsor
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://windsorlandtrust.org/" target="_blank">Windsor Land Trust</a>
+
 ### Windsor Locks
 
 ---
@@ -221,18 +276,36 @@
 ---
 
 ## Tolland County
+
 ### Andover
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.manchesterlandtrust.org/" target="_blank">Manchester Land Conservation Trust</a>
+
 ### Bolton
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.manchesterlandtrust.org/" target="_blank">Manchester Land Conservation Trust</a>
+
 ### Columbia
 ### Coventry
 ### Ellington
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://northernctlandtrust.org/" target="_blank">Northern Connecticut Land Trust</a>
+
 ### Hebron
 ### Mansfield
+
 ### Somers
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://northernctlandtrust.org/" target="_blank">Northern Connecticut Land Trust</a>
+
 ### Stafford
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://northernctlandtrust.org/" target="_blank">Northern Connecticut Land Trust</a>
+
 ### Tolland
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://northernctlandtrust.org/" target="_blank">Northern Connecticut Land Trust</a>
+
 ### Union
+
 ### Vernon
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.manchesterlandtrust.org/" target="_blank">Manchester Land Conservation Trust</a>
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://northernctlandtrust.org/" target="_blank">Northern Connecticut Land Trust</a>
+
 ### Willington
 
 ---
