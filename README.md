@@ -1,37 +1,190 @@
-## Welcome to GitHub Pages
+## Connecticut Land Trust Trails
 
-You can use the [editor on GitHub](https://github.com/meg-griffin/connecticut-land-trust-trails/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This is an ongoing list of land trust trails for public use in Connecticut.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Please note: the material contained in this site is provided for informational purposes only. Please always check with the Land Trust or Organization for current trail closures, warnings and other advisories. Enjoy!
 
-### Markdown
+### Fairfield County
+#### Bethel
+#### Bridgeport
+#### Brookfield
+#### Danbury
+#### Darien
+#### Easton
+#### Fairfield
+#### Greenwich
+#### Monroe
+#### New Canaan
+#### New Fairfield
+#### Newtown
+#### Norwalk
+#### Redding
+#### Ridgefield
+#### Shelton
+#### Sherman
+#### Stamford
+#### Stratford
+#### Trumbull
+#### Weston
+#### Westport
+#### Wilton
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Hartford County
+#### Avon
+#### Berlin
+#### Bloomfield
+#### Bristol
+#### Burlington
+#### Canton
+#### East Granby
+#### East Hartford
+#### East Windsor
+#### Enfield
+#### Farmington
+#### Glastonbury
+#### Granby
+#### Hartford
+#### Hartland
+#### Manchester
+#### Marlborough
+#### New Britain
+#### Newington
+#### Plainville
+#### Rocky Hill
+#### Simsbury
+#### South Windsor
+#### Southington
+#### Suffield
+#### West Hartford
+#### Wethersfield
+#### Windsor
+#### Windsor Locks
 
-```markdown
-Syntax highlighted code block
+### Litchfield County
+#### Barkhamsted
+#### Bethlehem
+#### Bridgewater
+#### Canaan
+#### Colebrook
+#### Cornwall
+#### Goshen
+#### Harwinton
+#### Kent
+#### Litchfield
+#### Morris
+#### New Hartford
+#### New Milford
+#### Norfolk
+#### North Canaan
+#### Plymouth
+#### Roxbury
+#### Salisbury
+#### Sharon
+#### Thomaston
+#### Torrington
+#### Warren
+#### Washington
+#### Watertown
+#### Winchester
+#### Woodbury
 
-# Header 1
-## Header 2
-### Header 3
+### Middlesex County
+#### Chester
+#### Clinton
+#### Cromwell
+#### Deep River
+#### Durham
+#### East Haddam
+#### East Hampton
+#### Essex
+#### Haddam
+#### Killingworth
+#### Middlefield
+#### Middletown
+#### Old Saybrook
+#### Portland
+#### Westbrook
 
-- Bulleted
-- List
+### New Haven County
+#### Ansonia
+#### Beacon Falls
+#### Bethany
+#### Branford
+#### Cheshire
+#### Derby
+#### East Haven
+#### Guilford
+#### Hamden
+#### Madison
+#### Meriden
+#### Middlebury
+#### Milford
+#### Naugatuck
+#### New Haven
+#### North Branford
+#### North Haven
+#### Orange
+#### Oxford
+#### Prospect
+#### Seymour
+#### Southbury
+#### Wallingford
+#### Waterbury
+#### West Haven
+#### Wolcott
+#### Woodbridge
 
-1. Numbered
-2. List
+### New London County
+#### Bozrah
+#### Colchester
+#### East Lyme
+#### Franklin
+#### Griswold
+#### Groton
+#### Lebanon
+#### Ledyard
+#### Lisbon
+#### Lyme
+#### Montville
+#### New London
+#### North Stonington
+#### Norwich
+#### Old Lyme
+#### Preston
+#### Salem
+#### Sprague
+#### Stonington
+#### Voluntown
+#### Waterford
 
-**Bold** and _Italic_ and `Code` text
+### Tolland County
+#### Andover
+#### Bolton
+#### Columbia
+#### Coventry
+#### Ellington
+#### Hebron
+#### Mansfield
+#### Somers
+#### Stafford
+#### Tolland
+#### Union
+#### Vernon
+#### Willington
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/meg-griffin/connecticut-land-trust-trails/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Windham County
+#### Ashford
+#### Brooklyn
+#### Canterbury
+#### Chaplin
+#### Eastford
+#### Hampton
+#### Killingly
+#### Plainfield
+#### Pomfret
+#### Putnam
+#### Scotland
+#### Sterling
+#### Thompson
+#### Windham
+#### Woodstock
