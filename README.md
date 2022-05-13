@@ -1,33 +1,49 @@
-## Connecticut Land Trust Trails
+<p align="center">
+  <a href="https://example.com/">
+    <img src="https://via.placeholder.com/72" alt="Logo" width=72 height=72>
+  </a>
+
+  <h3 align="center">Logo</h3>
+
+  <p align="center">
+    Short description
+    <br>
+    <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
+    ·
+    <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
+  </p>
+</p>
+
+# Connecticut Land Trust Trails
 
 An ongoing list of land trust trails for public use in Connecticut.
 
 ###### Please note: the material contained in this site is provided for informational purposes only. Please always check with the Land Trust or Organization for current trail closures, warnings and other advisories. Enjoy!
 
-### Fairfield County
-#### Bethel
-#### Bridgeport
-#### Brookfield
-#### Danbury
-#### Darien
-#### Easton
-#### Fairfield
-#### Greenwich
-#### Monroe
-#### New Canaan
-#### New Fairfield
-#### Newtown
-#### Norwalk
-#### Redding
-#### Ridgefield
-#### Shelton
-#### Sherman
-#### Stamford
-#### Stratford
-#### Trumbull
-#### Weston
-#### Westport
-#### Wilton
+## Fairfield County
+### Bethel
+### Bridgeport
+### Brookfield
+### Danbury
+### Darien
+### Easton
+### Fairfield
+### Greenwich
+### Monroe
+### New Canaan
+### New Fairfield
+### Newtown
+### Norwalk
+### Redding
+### Ridgefield
+### Shelton
+### Sherman
+### Stamford
+### Stratford
+### Trumbull
+### Weston
+### Westport
+### Wilton
 
 ### Hartford County
 #### Avon
@@ -196,20 +212,6 @@ An ongoing list of land trust trails for public use in Connecticut.
 #### heading
 ##### heading
 ###### heading
-heading
+text
 
-<p align="center">
-  <a href="https://example.com/">
-    <img src="https://via.placeholder.com/72" alt="Logo" width=72 height=72>
-  </a>
 
-  <h3 align="center">Logo</h3>
-
-  <p align="center">
-    Short description
-    <br>
-    <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
-    ·
-    <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
-  </p>
-</p>
