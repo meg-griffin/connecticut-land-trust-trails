@@ -1,8 +1,10 @@
 # Connecticut Land Trust Trails
 
-An ongoing list of land trust trails for public use in Connecticut.
+🌳 An ongoing list of land trust trails for public use in Connecticut.
 
-##### Please note: the material contained in this site is provided for informational purposes only. Please always check with the Land Trust or Organization for current trail closures, warnings and other advisories. Enjoy!
+##### Please note: the material contained in this site is provided for informational purposes only. Always check with the Land Trust or Organization for current trail closures, warnings and other advisories. Enjoy! 🥾
+
+---
 
 ## Fairfield County
 ### Bethel
@@ -28,6 +30,8 @@ An ongoing list of land trust trails for public use in Connecticut.
 ### Weston
 ### Westport
 ### Wilton
+
+---
 
 ## Hartford County
 ### Avon
@@ -60,6 +64,8 @@ An ongoing list of land trust trails for public use in Connecticut.
 ### Windsor
 ### Windsor Locks
 
+---
+
 ## Litchfield County
 ### Barkhamsted
 ### Bethlehem
@@ -88,6 +94,8 @@ An ongoing list of land trust trails for public use in Connecticut.
 ### Winchester
 ### Woodbury
 
+---
+
 ## Middlesex County
 ### Chester
 ### Clinton
@@ -104,6 +112,8 @@ An ongoing list of land trust trails for public use in Connecticut.
 ### Old Saybrook
 ### Portland
 ### Westbrook
+
+---
 
 ## New Haven County
 ### Ansonia
@@ -134,6 +144,8 @@ An ongoing list of land trust trails for public use in Connecticut.
 ### Wolcott
 ### Woodbridge
 
+---
+
 ## New London County
 ### Bozrah
 ### Colchester
@@ -157,6 +169,8 @@ An ongoing list of land trust trails for public use in Connecticut.
 ### Voluntown
 ### Waterford
 
+---
+
 ## Tolland County
 ### Andover
 ### Bolton
@@ -171,6 +185,8 @@ An ongoing list of land trust trails for public use in Connecticut.
 ### Union
 ### Vernon
 ### Willington
+
+---
 
 ## Windham County
 ### Ashford
@@ -188,14 +204,4 @@ An ongoing list of land trust trails for public use in Connecticut.
 ### Thompson
 ### Windham
 ### Woodstock
-
-
-# heading
-## heading
-### heading
-#### heading
-##### heading
-###### heading
-text
-
 
