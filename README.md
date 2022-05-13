@@ -167,36 +167,79 @@
 ---
 
 ## Litchfield County
+
 ### Barkhamsted
+
 ### Bethlehem
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.bethlehemlandtrustct.org/" target="_blank">Bethlehem Land Trust</a>
+
 ### Bridgewater
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://bridgewaterlandtrust.org/" target="_blank">Bridgewater Land Trust</a>
+
 ### Canaan
+
 ### Colebrook
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://colebrooklandconservancy.org/" target="_blank">Colebrook Land Conservancy</a>
+
 ### Cornwall
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://cornwallconservationtrust.org/" target="_blank">Cornwall Conservation Trust</a>
+
 ### Goshen
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://goshenlandtrust.org/index.html" target="_blank">Goshen Land Trust</a>
+
 ### Harwinton
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://harwintonlandtrust.org/" target="_blank">Harwinton Land Trust</a>
+
 ### Kent
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kentlandtrust.org/" target="_blank">Kent Land Trust</a>
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ctland.org/" target="_blank">Northwest Connecticut Land Conservancy</a>
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.pondmountaintrust.org/" target="_blank">Pond Mountain Trust</a>
+
 ### Litchfield
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ctland.org/" target="_blank">Northwest Connecticut Land Conservancy</a>
+
 ### Morris
 ### New Hartford
+
 ### New Milford
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ctland.org/" target="_blank">Northwest Connecticut Land Conservancy</a>
+
 ### Norfolk
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.norfolklandtrust.org/index.html" target="_blank">Norfolk Land Trust</a>
+
 ## North Canaan
+
 ### Plymouth
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.plymouthlandtrust.org/" target="_blank">Plymouth Land Trust</a>
+
 ### Roxbury
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.roxburylandtrust.org/" target="_blank">Roxbury Land Trust</a>
+
 ### Salisbury
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://salisburyassociation.org//" target="_blank">Salisbury Association</a>
+
 ### Sharon
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ctland.org/" target="_blank">Northwest Connecticut Land Conservancy</a>
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://sharonlandtrust.org/" target="_blank">Sharon Land Trust</a>
+
 ### Thomaston
+
 ### Torrington
+
 ### Warren
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.warrenlandtrust.org/" target="_blank">Warren Land Trust</a>
+
 ### Washington
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://steeprockassoc.org/" target="_blank">Steep Rock Association</a>
+
 ### Watertown
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.watertownlandtrust.org/" target="_blank">Watertown Land Trust</a>
+
 ### Winchester
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.winchesterlandtrust.org/" target="_blank">Winchester Land Trust</a>
+
 ### Woodbury
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://flandersnaturecenter.org/" target="_blank">Flanders Nature Center & Land Trust</a>
 
 ---
 
@@ -231,7 +274,10 @@
 ### Hamden
 ### Madison
 ### Meriden
+
 ### Middlebury
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.middleburylandtrust.org/index.shtml" target="_blank">Middlebury Land Trust</a>
+
 ### Milford
 ### Naugatuck
 ### New Haven
