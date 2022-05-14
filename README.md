@@ -1,9 +1,9 @@
 # Connecticut Land Trust Trails
 
-### What is a land trust?
+### What is a land trust? 🌲
 A land trust is a nonprofit, community-based organization that acquires land for conservation purposes as well as for public benefit. The first land trust, The Trustees of Reservations, was formed in Massachusetts in 1891. There are currently over 130 land trusts in Connecticut.
 
-### What is a land trust trail?
+### What is a land trust trail? 🐿
 A land trust trail is a footpath maintained by a land trust for public use. They are generally for passive recreation such as walking, hiking, and wildlife viewing. Some locations may allow other activities such as bicycling, fishing, and cross-country skiing. Always check the land trust's rules beforehand.
 
 
