@@ -318,36 +318,88 @@ A land trust trail is a footpath maintained by a land trust for public use. They
 ---
 
 ## New Haven County
+
 ### Ansonia
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://seymourlandtrust.org/" target="_blank">Seymour Land Conservation Trust</a>
+
 ### Beacon Falls
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://bethanylandtrust.org/" target="_blank">Bethany Land Trust</a>
+
 ### Bethany
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://bethanylandtrust.org/" target="_blank">Bethany Land Trust</a>
+
 ### Branford
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://branfordlandtrust.org/" target="_blank">Branford Land Trust</a>
+
 ### Cheshire
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.cheshirelandtrust.org/" target="_blank">Cheshire Land Trust</a>
+
 ### Derby
+&nbsp;&nbsp;&nbsp;&nbsp; None at this time
+
 ### East Haven
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.easthavenlandtrust.org/" target="_blank">East Haven Land Trust</a>
+
 ### Guilford
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://guilfordlandtrust.org/" target="_blank">Guilford Land Conservation Trust</a>
+
 ### Hamden
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.hlct.org/" target="_blank">Hamden Land Conservation Trust</a>
+
 ### Madison
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://madisonlandtrust.org/" target="_blank">Madison Land Conservation Trust</a>
+
 ### Meriden
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://meridenlandtrust.org/" target="_blank">Meriden Land Trust</a>
 
 ### Middlebury
-#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.middleburylandtrust.org/index.shtml" target="_blank">Middlebury Land Trust</a>
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://flandersnaturecenter.org/" target="_blank">Flanders Nature Center & Land Trust</a>
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.middleburylandtrust.org/" target="_blank">Middlebury Land Trust</a>
 
 ### Milford
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.milfordctlandtrust.org/" target="_blank">Milford Land Conservation Trust</a>
+
 ### Naugatuck
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://naugatucklandtrust.webs.com/" target="_blank">Naugatuck Land Trust</a>
+
 ### New Haven
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gathernewhaven.org/" target="_blank">Gather New Haven</a>
+
 ### North Branford
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://nblandtrust.org/" target="_blank">North Branford Land Conservation Trust</a>
+
 ### North Haven
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://nohavenlandtrust.org/" target="_blank">North Haven Land Trust</a>
+
 ### Orange
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.orangectlandtrust.org/" target="_blank">Orange Land Trust</a>
+
 ### Oxford
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://oxfordlandtrust.org/" target="_blank">Oxford Land Trust</a>
+
 ### Prospect
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://prospectlandtrust.blogspot.com/" target="_blank">Prospect Land Trust</a>
+
 ### Seymour
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://seymourlandtrust.org/" target="_blank">Seymour Land Conservation Trust</a>
+
 ### Southbury
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.southburylandtrust.org/" target="_blank">Southbury Land Trust</a>
+
 ### Wallingford
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://sites.google.com/site/wwwwallingfordlandtrustorg/" target="_blank">Wallingford Land Trust</a>
+
 ### Waterbury
+&nbsp;&nbsp;&nbsp;&nbsp; None at this time
+
 ### West Haven
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://landtrustwesthavenct.org/" target="_blank">Land Trust of West Haven</a>
+
 ### Wolcott
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wolcottlandct.org/" target="_blank">Wolcott Land Conservation Trust</a>
+
 ### Woodbridge
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://woodbridgelandtrust.org/WLT/" target="_blank">Woodbridge Land Trust</a>
 
 ---
 
