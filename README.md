@@ -266,21 +266,54 @@ A land trust trail is a footpath maintained by a land trust for public use. They
 ---
 
 ## Middlesex County
+
 ### Chester
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.chesterlandtrust.org/" target="_blank">Chester Land Trust</a>
+
 ### Clinton
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.clintonlandtrust.org/" target="_blank">Clinton Land Conservation Trust</a>
+
 ### Cromwell
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.berlinlandtrust.org/" target="_blank">Berlin Land Trust</a>
+
 ### Deep River
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://deepriverlandtrust.org/" target="_blank">Deep River Land Trust</a>
+
 ### Durham
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://middlesexlandtrust.org/" target="_blank">Middlesex Land Trust</a>
+
 ### East Haddam
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.ehlt.org/" target="_blank">East Haddam Land Trust</a>
+
 ### East Hampton
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://middlesexlandtrust.org/" target="_blank">Middlesex Land Trust</a>
+
 ### Essex
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://essexlandtrust.org/" target="_blank">Essex Land Trust</a>
+
 ### Haddam
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.hltrust.org/" target="_blank">Haddam Land Trust</a>
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://middlesexlandtrust.org/" target="_blank">Middlesex Land Trust</a>
+
 ### Killingworth
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.killingworthlandconservationtrust.org/" target="_blank">Killingworth Land Conservation Trust</a>
+
 ### Middlefield
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://middlesexlandtrust.org/" target="_blank">Middlesex Land Trust</a>
+
 ### Middletown
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.berlinlandtrust.org/" target="_blank">Berlin Land Trust</a>
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://middlesexlandtrust.org/" target="_blank">Middlesex Land Trust</a>
+
 ### Old Saybrook
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.oslt.org/" target="_blank">Old Saybrook Land Trust</a>
+
 ### Portland
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://middlesexlandtrust.org/" target="_blank">Middlesex Land Trust</a>
+
 ### Westbrook
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.westbrooklct.org/" target="_blank">Westbrook Land Conservation Trust</a>
+
 
 ---
 
