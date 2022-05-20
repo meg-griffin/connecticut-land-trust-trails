@@ -17,6 +17,7 @@ A land trust trail is a footpath maintained by a land trust for public use. They
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://bethellandtrust.org/" target="_blank">Bethel Land Trust</a>
 
 ### Bridgeport
+#### &nbsp;&nbsp;&nbsp;&nbsp; None at this time
 
 ### Brookfield
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ctland.org/" target="_blank">Northwest Connecticut Land Conservancy</a>
@@ -69,8 +70,10 @@ A land trust trail is a footpath maintained by a land trust for public use. They
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.stamfordland.org/" target="_blank">Stamford Land Conservation Trust</a>
 
 ### Stratford
+#### &nbsp;&nbsp;&nbsp;&nbsp; None at this time
 
 ### Trumbull
+#### &nbsp;&nbsp;&nbsp;&nbsp; None at this time
 
 ### Weston
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.aspetucklandtrust.org/" target="_blank">Aspetuck Land Trust</a>
@@ -128,6 +131,7 @@ A land trust trail is a footpath maintained by a land trust for public use. They
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://granbylandtrust.org/glt/" target="_blank">Granby Land Trust</a>
 
 ### Hartford
+#### &nbsp;&nbsp;&nbsp;&nbsp; None at this time
 
 ### Hartland
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.hartlandlandtrust.org/" target="_blank">Hartland Land Trust</a>
@@ -142,8 +146,10 @@ A land trust trail is a footpath maintained by a land trust for public use. They
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.berlinlandtrust.org/" target="_blank">Berlin Land Trust</a>
 
 ### Newington
+#### &nbsp;&nbsp;&nbsp;&nbsp; None at this time
 
 ### Plainville
+#### &nbsp;&nbsp;&nbsp;&nbsp; None at this time
 
 ### Rocky Hill
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.gmct.org/" target="_blank">Great Meadows Conservation Trust</a>
@@ -152,6 +158,7 @@ A land trust trail is a footpath maintained by a land trust for public use. They
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://simsburylandtrust.org/slt/" target="_blank">Simsbury Land Trust</a>
 
 ### South Windsor
+#### &nbsp;&nbsp;&nbsp;&nbsp; None at this time
 
 ### Southington
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.southingtonlandtrust.org/" target="_blank">Southington Land Trust</a>
@@ -160,6 +167,7 @@ A land trust trail is a footpath maintained by a land trust for public use. They
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.suffieldlandconservancy.org/" target="_blank">Suffield Land Conservancy</a>
 
 ### West Hartford
+#### &nbsp;&nbsp;&nbsp;&nbsp; None at this time
 
 ### Wethersfield
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.gmct.org/" target="_blank">Great Meadows Conservation Trust</a>
@@ -168,12 +176,14 @@ A land trust trail is a footpath maintained by a land trust for public use. They
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://windsorlandtrust.org/" target="_blank">Windsor Land Trust</a>
 
 ### Windsor Locks
+#### &nbsp;&nbsp;&nbsp;&nbsp; None at this time
 
 ---
 
 ## Litchfield County
 
 ### Barkhamsted
+#### &nbsp;&nbsp;&nbsp;&nbsp; None at this time
 
 ### Bethlehem
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.bethlehemlandtrustct.org/" target="_blank">Bethlehem Land Trust</a>
@@ -182,6 +192,7 @@ A land trust trail is a footpath maintained by a land trust for public use. They
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://bridgewaterlandtrust.org/" target="_blank">Bridgewater Land Trust</a>
 
 ### Canaan
+#### &nbsp;&nbsp;&nbsp;&nbsp; None at this time
 
 ### Colebrook
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://colebrooklandconservancy.org/" target="_blank">Colebrook Land Conservancy</a>
@@ -213,6 +224,7 @@ A land trust trail is a footpath maintained by a land trust for public use. They
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.norfolklandtrust.org/index.html" target="_blank">Norfolk Land Trust</a>
 
 ## North Canaan
+#### &nbsp;&nbsp;&nbsp;&nbsp; None at this time
 
 ### Plymouth
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.plymouthlandtrust.org/" target="_blank">Plymouth Land Trust</a>
@@ -228,8 +240,10 @@ A land trust trail is a footpath maintained by a land trust for public use. They
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://sharonlandtrust.org/" target="_blank">Sharon Land Trust</a>
 
 ### Thomaston
+#### &nbsp;&nbsp;&nbsp;&nbsp; None at this time
 
 ### Torrington
+#### &nbsp;&nbsp;&nbsp;&nbsp; None at this time
 
 ### Warren
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.warrenlandtrust.org/" target="_blank">Warren Land Trust</a>
