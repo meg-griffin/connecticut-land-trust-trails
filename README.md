@@ -404,25 +404,52 @@ A land trust trail is a footpath maintained by a land trust for public use. They
 ---
 
 ## New London County
+
 ### Bozrah
+&nbsp;&nbsp;&nbsp;&nbsp; None at this time
+
 ### Colchester
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.colchesterlandtrust.org/" target="_blank">Colchester Land Trust</a>
+
 ### East Lyme
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.eastlymelandtrust.com/" target="_blank">East Lyme Land Trust</a>
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.oswhills.org/" target="_blank">Friends of the Oswegatchie Nature Preserve</a>
+
 ### Franklin
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://joshuastrust.org/" target="_blank">Joshua’s Trust</a>
+
 ### Griswold
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://avalonia.org/" target="_blank">Avalonia Land Conservancy</a>
+
 ### Groton
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://avalonia.org/" target="_blank">Avalonia Land Conservancy</a>
+
 ### Lebanon
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://joshuastrust.org/" target="_blank">Joshua’s Trust</a>
+
 ### Ledyard
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://avalonia.org/" target="_blank">Avalonia Land Conservancy</a>
+
 ### Lisbon
 ### Lyme
 ### Montville
 ### New London
+
 ### North Stonington
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://avalonia.org/" target="_blank">Avalonia Land Conservancy</a>
+
 ### Norwich
 ### Old Lyme
+
 ### Preston
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://avalonia.org/" target="_blank">Avalonia Land Conservancy</a>
+
 ### Salem
 ### Sprague
+
 ### Stonington
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://avalonia.org/" target="_blank">Avalonia Land Conservancy</a>
+
 ### Voluntown
 ### Waterford
 
@@ -431,18 +458,25 @@ A land trust trail is a footpath maintained by a land trust for public use. They
 ## Tolland County
 
 ### Andover
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://joshuastrust.org/" target="_blank">Joshua’s Trust</a>
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.manchesterlandtrust.org/" target="_blank">Manchester Land Conservation Trust</a>
 
 ### Bolton
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.manchesterlandtrust.org/" target="_blank">Manchester Land Conservation Trust</a>
 
 ### Columbia
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://joshuastrust.org/" target="_blank">Joshua’s Trust</a>
+
 ### Coventry
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://joshuastrust.org/" target="_blank">Joshua’s Trust</a>
+
 ### Ellington
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://northernctlandtrust.org/" target="_blank">Northern Connecticut Land Trust</a>
 
 ### Hebron
+
 ### Mansfield
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://joshuastrust.org/" target="_blank">Joshua’s Trust</a>
 
 ### Somers
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://northernctlandtrust.org/" target="_blank">Northern Connecticut Land Trust</a>
@@ -451,6 +485,7 @@ A land trust trail is a footpath maintained by a land trust for public use. They
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://northernctlandtrust.org/" target="_blank">Northern Connecticut Land Trust</a>
 
 ### Tolland
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://joshuastrust.org/" target="_blank">Joshua’s Trust</a>
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://northernctlandtrust.org/" target="_blank">Northern Connecticut Land Trust</a>
 
 ### Union
@@ -460,23 +495,48 @@ A land trust trail is a footpath maintained by a land trust for public use. They
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://northernctlandtrust.org/" target="_blank">Northern Connecticut Land Trust</a>
 
 ### Willington
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://joshuastrust.org/" target="_blank">Joshua’s Trust</a>
 
 ---
 
 ## Windham County
+
 ### Ashford
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://joshuastrust.org/" target="_blank">Joshua’s Trust</a>
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ecfla.org/" target="_blank">Wolf Den Land Trust</a>
+
 ### Brooklyn
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ecfla.org/" target="_blank">Wolf Den Land Trust</a>
+
 ### Canterbury
+
 ### Chaplin
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://joshuastrust.org/" target="_blank">Joshua’s Trust</a>
+
 ### Eastford
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ecfla.org/" target="_blank">Wolf Den Land Trust</a>
+
 ### Hampton
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://joshuastrust.org/" target="_blank">Joshua’s Trust</a>
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ecfla.org/" target="_blank">Wolf Den Land Trust</a>
+
 ### Killingly
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ecfla.org/" target="_blank">Wolf Den Land Trust</a>
+
 ### Plainfield
 ### Pomfret
 ### Putnam
+
 ### Scotland
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://joshuastrust.org/" target="_blank">Joshua’s Trust</a>
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ecfla.org/" target="_blank">Wolf Den Land Trust</a>
+
 ### Sterling
 ### Thompson
+
 ### Windham
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://joshuastrust.org/" target="_blank">Joshua’s Trust</a>
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ecfla.org/" target="_blank">Wolf Den Land Trust</a>
+
 ### Woodstock
 
