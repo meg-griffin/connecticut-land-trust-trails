@@ -17,7 +17,7 @@ A land trust trail is a footpath maintained by a land trust for public use. They
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://bethellandtrust.org/" target="_blank">Bethel Land Trust</a>
 
 ### Bridgeport
-#### &nbsp;&nbsp;&nbsp;&nbsp; None at this time
+None at this time
 
 ### Brookfield
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ctland.org/" target="_blank">Northwest Connecticut Land Conservancy</a>
