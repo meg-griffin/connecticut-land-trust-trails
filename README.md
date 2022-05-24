@@ -481,6 +481,7 @@ A land trust trail is a footpath maintained by a land trust for public use. They
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.manchesterlandtrust.org/" target="_blank">Manchester Land Conservation Trust</a>
 
 ### Bolton
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.boltonlandtrust.org/" target="_blank">Bolton Land Trust</a>
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.manchesterlandtrust.org/" target="_blank">Manchester Land Conservation Trust</a>
 
 ### Columbia
@@ -493,6 +494,7 @@ A land trust trail is a footpath maintained by a land trust for public use. They
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://northernctlandtrust.org/" target="_blank">Northern Connecticut Land Trust</a>
 
 ### Hebron
+&nbsp;&nbsp;&nbsp;&nbsp; None at this time
 
 ### Mansfield
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://joshuastrust.org/" target="_blank">Joshua’s Trust</a>
@@ -508,6 +510,7 @@ A land trust trail is a footpath maintained by a land trust for public use. They
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://northernctlandtrust.org/" target="_blank">Northern Connecticut Land Trust</a>
 
 ### Union
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://thenewroxburylandtrust.org/" target="_blank">New Roxbury Land Trust</a>
 
 ### Vernon
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.manchesterlandtrust.org/" target="_blank">Manchester Land Conservation Trust</a>
@@ -558,4 +561,5 @@ A land trust trail is a footpath maintained by a land trust for public use. They
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ecfla.org/" target="_blank">Wolf Den Land Trust</a>
 
 ### Woodstock
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://thenewroxburylandtrust.org/" target="_blank">New Roxbury Land Trust</a>
 
