@@ -423,6 +423,7 @@ A land trust trail is a footpath maintained by a land trust for public use. They
 
 ### Groton
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://avalonia.org/" target="_blank">Avalonia Land Conservancy</a>
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.gosaonline.org/" target="_blank">Groton Open Space Association</a>
 
 ### Lebanon
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://joshuastrust.org/" target="_blank">Joshua’s Trust</a>
@@ -431,27 +432,45 @@ A land trust trail is a footpath maintained by a land trust for public use. They
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://avalonia.org/" target="_blank">Avalonia Land Conservancy</a>
 
 ### Lisbon
+&nbsp;&nbsp;&nbsp;&nbsp; None at this time
+
 ### Lyme
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.lymelandtrust.org/" target="_blank">Lyme Land Trust</a>
+
 ### Montville
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://waterfordlandtrust.org/" target="_blank">Waterford Land Trust</a>
+
 ### New London
+&nbsp;&nbsp;&nbsp;&nbsp; None at this time
 
 ### North Stonington
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://avalonia.org/" target="_blank">Avalonia Land Conservancy</a>
 
 ### Norwich
+&nbsp;&nbsp;&nbsp;&nbsp; None at this time
+
 ### Old Lyme
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.oldlymelandtrust.org/" target="_blank">Old Lyme Land Trust</a>
 
 ### Preston
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://avalonia.org/" target="_blank">Avalonia Land Conservancy</a>
 
 ### Salem
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://salemlandtrust.org/" target="_blank">Salem Land Trust</a>
+
 ### Sprague
+&nbsp;&nbsp;&nbsp;&nbsp; None at this time
 
 ### Stonington
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://avalonia.org/" target="_blank">Avalonia Land Conservancy</a>
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.stoningtonlandtrust.org/" target="_blank">Stonington Land Trust</a>
 
 ### Voluntown
+&nbsp;&nbsp;&nbsp;&nbsp; None at this time
+
 ### Waterford
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://waterfordlandtrust.org/" target="_blank">Waterford Land Trust</a>
+
 
 ---
 
