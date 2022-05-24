@@ -531,6 +531,7 @@ A land trust trail is a footpath maintained by a land trust for public use. They
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ecfla.org/" target="_blank">Wolf Den Land Trust</a>
 
 ### Canterbury
+&nbsp;&nbsp;&nbsp;&nbsp; None at this time
 
 ### Chaplin
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://joshuastrust.org/" target="_blank">Joshua’s Trust</a>
@@ -544,17 +545,26 @@ A land trust trail is a footpath maintained by a land trust for public use. They
 
 ### Killingly
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ecfla.org/" target="_blank">Wolf Den Land Trust</a>
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wyndhamlandtrust.org/" target="_blank">Wyndham Land Trust</a>
 
 ### Plainfield
+&nbsp;&nbsp;&nbsp;&nbsp; None at this time
+
 ### Pomfret
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wyndhamlandtrust.org/" target="_blank">Wyndham Land Trust</a>
+
 ### Putnam
+&nbsp;&nbsp;&nbsp;&nbsp; None at this time
 
 ### Scotland
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://joshuastrust.org/" target="_blank">Joshua’s Trust</a>
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.ecfla.org/" target="_blank">Wolf Den Land Trust</a>
 
 ### Sterling
+&nbsp;&nbsp;&nbsp;&nbsp; None at this time
+
 ### Thompson
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wyndhamlandtrust.org/" target="_blank">Wyndham Land Trust</a>
 
 ### Windham
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://joshuastrust.org/" target="_blank">Joshua’s Trust</a>
@@ -562,4 +572,5 @@ A land trust trail is a footpath maintained by a land trust for public use. They
 
 ### Woodstock
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://thenewroxburylandtrust.org/" target="_blank">New Roxbury Land Trust</a>
+#### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.wyndhamlandtrust.org/" target="_blank">Wyndham Land Trust</a>
 
