@@ -30,6 +30,8 @@ A land trust trail is a footpath maintained by a land trust for public use. They
 
 ### Brookfield
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://ctland.org/" target="_blank">Northwest Connecticut Land Conservancy</a>
+- Birch Rocks Preserve (🔗 <a href="https://ctland.org/our_trails/our-trails-detail/?otname=birchrocks" target="_blank">Link</a>, 📍<a href="https://ctland.org/wp-content/uploads/2013/05/BirchRocksPrattGlen.pdf" target="_blank">Map</a>)
+- Kahlo Preserve  (🔗 <a href="https://ctland.org/our_trails/our-trails-detail/?otname=KahloPreserve" target="_blank">Link</a>, 📍<a href="https://ctland.org/wp-content/uploads/2020/09/KahloFINALreduced.pdf" target="_blank">Map</a>)
 
 ### Danbury
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://candlewoodvalleyrlt.org/" target="_blank">Candlewood Valley Regional Land Trust</a>
