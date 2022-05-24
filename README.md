@@ -15,6 +15,15 @@ A land trust trail is a footpath maintained by a land trust for public use. They
 
 ### Bethel
 #### &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://bethellandtrust.org/" target="_blank">Bethel Land Trust</a>
+- Arrowhead Preserve (🔗 <a href="https://bethellandtrust.org/?portfolio=arrowhead" target="_blank">Link</a>)
+- Enchanted Trail Boardwalk  (🔗 <a href="https://bethellandtrust.org/?portfolio=boardwalk-on-the-enchanted-trail" target="_blank">Link</a>)
+- Franc Preserve  (🔗 <a href="https://bethellandtrust.org/?portfolio=franc-preserve" target="_blank">Link</a>)
+- Mike's Pond  (🔗 <a href="https://bethellandtrust.org/?portfolio=mikes-pond-mcnichols-preserve-at-chestnut-ridge" target="_blank">Link</a>)
+- Janet P. Miller Preserve  (🔗 <a href="https://bethellandtrust.org/?portfolio=janet-p-miller-preserve" target="_blank">Link</a>)
+- Overlook Park (🔗 <a href="https://bethellandtrust.org/?portfolio=overlook-park" target="_blank">Link</a>)
+- Skyedge Preserve  (🔗 <a href="https://bethellandtrust.org/?portfolio=skyedge-preserve" target="_blank">Link</a>)
+- Stephenson Preserve  (🔗 <a href="https://bethellandtrust.org/?portfolio=stephenson-preserve" target="_blank">Link</a>)
+- Wolfpit Preserve  (🔗 <a href="https://bethellandtrust.org/?portfolio=wolfpit-preserve" target="_blank">Link</a>, 📍<a href="https://bethellandtrust.org/wp-content/uploads/2020/12/Wolfpit-Miller-Brochure.pdf" target="_blank">Map</a>)
 
 ### Bridgeport
 &nbsp;&nbsp;&nbsp;&nbsp; None at this time
